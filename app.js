@@ -1,3 +1,3 @@
 function demo() {
-  this.name = "hieu";
+  this.name = "bui";
 }
