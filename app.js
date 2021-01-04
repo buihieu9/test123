@@ -1,3 +1,3 @@
-function demo(name) {
-  this.name = name;
+function demo() {
+  this.name = [];
 }
